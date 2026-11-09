@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dars.my_tutor_app",
+      "sha256_cert_fingerprints": [
+        "E2:26:6F:71:A0:24:F6:E1:EA:89:F5:94:AC:B9:EA:57:96:AC:0E:AD:10:B6:0E:3E:74:40:5E:A2:12:56:0A:52"
+      ]
+    }
+  }
+]
